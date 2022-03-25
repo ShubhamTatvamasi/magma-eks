@@ -2,6 +2,8 @@
 
 Set kubeconfig file:
 ```bash
+cd ~/.kube/
+touch orc8r.magmacore.link
 export KUBECONFIG=${PWD}/orc8r.magmacore.link
 ```
 
