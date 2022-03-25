@@ -1,5 +1,6 @@
 # magma-eks
 
+Set kubeconfig file:
 ```bash
 export KUBECONFIG=${PWD}/orc8r.magmacore.link
 ```
