@@ -1,5 +1,9 @@
 # magma-eks
 
+```bash
+export KUBECONFIG=${PWD}/orc8r.magmacore.link
+```
+
 List cluster:
 ```bash
 aws eks list-clusters
